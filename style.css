@@ -142,6 +142,7 @@ h6 {
 }
 
 .column__btn {
+  appearance: none;
   color: #000000;
   cursor: pointer;
   background: #808080;
