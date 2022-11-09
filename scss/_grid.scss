@@ -1,0 +1,12 @@
+.wrapper{
+display: flex;
+height: 100vh;
+
+font-family: 'Libre Baskerville', serif;
+}
+
+@media (max-width:1023px) {
+   .wrapper{
+      flex-direction: column;
+   }
+}
